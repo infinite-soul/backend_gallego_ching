@@ -1,0 +1,15 @@
+{
+  "name": "backend-47310",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node productManager.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filesystem": "^1.0.1"
+  }
+}
