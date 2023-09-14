@@ -5,7 +5,7 @@
         "stock": 5,
         "title": "Res",
         "description": "8 slices Beef\n12 florets Broccoli\n1 Packet Potatoes\n1 Packet Carrots\n140g plain flour\n4 Eggs\n200ml milk\ndrizzle (for cooking) sunflower oil",
-        "price": 9000,
+        "price": 150,
         "thumbnail": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg"
     },
     {
@@ -88,5 +88,19 @@
         "description": "2 chicken breasts\n2 tablespoons curry powder\n1 onion, chopped\n2 cloves garlic, minced\n1 can (14 oz) coconut milk\n1 tablespoon vegetable oil\nSalt and pepper to taste\nCooked rice for serving",
         "price": 1800,
         "thumbnail": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg"
+    },
+    {
+        "title": "Product 1",
+        "description": "Description 1",
+        "price": 100,
+        "thumbnail": "url1",
+        "id": 11
+    },
+    {
+        "title": "Product 2",
+        "description": "Description 2",
+        "price": 200,
+        "thumbnail": "url2",
+        "id": 12
     }
 ]
